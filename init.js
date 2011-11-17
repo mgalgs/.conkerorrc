@@ -1,3 +1,6 @@
+dumpln("setting up init...");
+
+
 // the default page for new buffers.
 homepage = "www.google.com";
 
